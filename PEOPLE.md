@@ -1,1 +1,1 @@
-I love you
+Haskell Curry
